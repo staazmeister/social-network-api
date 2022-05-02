@@ -40,9 +40,14 @@ The purpose of this project is apply the following newly learned skills:
 
 ## Links to Deployed Application
 Link to demos: 
+
 Thoughts Demo: https://drive.google.com/file/d/1eMVlpAPi-Hg9IbDPLkcLZMG5JgFRnw_J/view?usp=sharing
+
 User Demo: https://drive.google.com/file/d/1KT1t2DXJrGhrwNqbTOaG_Rg0v_wvbYRN/view?usp=sharing
+
 Reactions Demo: https://drive.google.com/file/d/1l4pLzBYCrxhUrffyE2mKPOZGEv51xEmg/view?usp=sharing
+
 Friends Demo: https://drive.google.com/file/d/1_H9u_C8vNz-Nm3f588aXZCPW1RNpfoT0/view?usp=sharing
 
 URL for GitHub repository: https://github.com/staazmeister/social-network-api.git
+
